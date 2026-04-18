@@ -1,5 +1,5 @@
 ## Description du projet
-[cite_start]Ce projet consiste en le développement d'une application de réalité augmentée (AR) sous Unity intégrant une simulation d'intelligence artificielle[cite: 1]. L'application permet de détecter un objet réel via la caméra et de déclencher une analyse intelligente pour afficher des informations enrichies.
+Ce projet consiste en le développement d'une application de réalité augmentée (AR) sous Unity intégrant une simulation d'intelligence artificielle. L'application permet de détecter un objet réel via la caméra et de déclencher une analyse intelligente pour afficher des informations enrichies.
 
 ## Objectifs du TP
 - Détecter un élément réel (image ou plan).
